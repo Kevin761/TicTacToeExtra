@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kółko i krzyżyk</string>
+    <string name="button_start">Graj!</string>
+    <string name="open_url">WYSZUKAJ</string>
+    <string name="player1Text">Gracz 1: 0</string>
+    <string name="player1_win">Gracz 1 wygrał!</string>
+    <string name="player2_win">Gracz 2 wygrał!</string>
+    <string name="draw_text">Remis</string>
+    <string name="player2Text">Gracz 2: 0</string>
+    <string name="player1_text_start">Gracz 1:</string>
+    <string name="player2_text_start">Gracz 2:</string>
+</resources>
